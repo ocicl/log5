@@ -1,0 +1,10 @@
+* log5
+
+A Common Lisp logging framework organized around five things:
+categories, outputs, senders, messages and contexts.
+
+|---------+----------------------------------------------------------------------------------|
+| source  | file:https://github.com/sharplispers/log5/archive/refs/tags/version-0.3.2.tar.gz |
+| version | 0.3.2                                                                            |
+| systems | log5                                                                             |
+|---------+----------------------------------------------------------------------------------|
