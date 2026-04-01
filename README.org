@@ -8,3 +8,4 @@ categories, outputs, senders, messages and contexts.
 | version | ersion-0.3.2                                                                            |
 | systems | log5                                                                             |
 |---------+----------------------------------------------------------------------------------|
+ 
